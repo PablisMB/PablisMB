@@ -1,4 +1,4 @@
-# 💫 Sobre mí:
+# 👍 Sobre mí:
 🚡 I work with @gtlavegam01<br>📚 I’m currently learning Python 3<br>
 
 ## 🌐 Redes sociales:
