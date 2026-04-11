@@ -47,10 +47,10 @@ I build full-stack web applications and real-time multiplayer experiences. Curre
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**GuessMyAlgorithm**](https://github.com/pablismb/GuessMyAlgorithm) | Real-time multiplayer social game — friends guess whose Spotify / Steam / YouTube activity it is | Node.js · Socket.IO · React Native · Supabase · Redis |
-| [**Las 7 Sillas Truck**](#) | Mobile-first food truck ordering platform — QR checkout, Stripe payments, serverless invoicing | React · Vite · Stripe · Vercel · Upstash Redis |
-| [**Springfield Coffee Bar**](#) | Restaurant website with dynamic menu management | React · Vite · TypeScript |
-| [**Portfolio**](https://github.com/pablismb/pablismb-portfolio) | Personal portfolio with Bento Grid layout and smooth micro-animations | React 19 · Tailwind v4 · Framer Motion |
+| [**GuessMyAlgorithm**](https://guessmyalgorithm.com) | Real-time multiplayer social game — friends guess whose Spotify / Steam / YouTube activity it is | Node.js · Socket.IO · React Native · Supabase · Redis |
+| [**Las 7 Sillas Truck**](https://seven-chairs-gourmet.vercel.app) | Mobile-first food truck ordering platform — QR checkout, Stripe payments, serverless invoicing | React · Vite · Stripe · Vercel · Upstash Redis |
+| [**Springfield Coffee Bar**](https://pablismb.github.io/springfield-roadhouse-launch) | Restaurant website with dynamic menu management | React · Vite · TypeScript |
+| [**Portfolio**](https://pablismb-portfolio.vercel.app) | Personal portfolio with Bento Grid layout and smooth micro-animations | React 19 · Tailwind v4 · Framer Motion |
 
 ---
 
