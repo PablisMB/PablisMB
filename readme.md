@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pablo 👋</h1>
-<h3 align="center">Fullstack Developer · CS + Mathematics @ Universidad de Sevilla</h3>
+<h3 align="center">Fullstack Developer · SE  @ Universidad de Extremadura</h3>
 
 <p align="center">
   <a href="mailto:pablismbdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 
 ---
 
-I build full-stack web applications and real-time multiplayer experiences. Currently pursuing a **Double Degree in Computer Science & Mathematics** at Universidad de Sevilla, with a side interest in quantum computing research.
+I build full-stack web applications and real-time multiplayer experiences. Currently pursuing a **Degree in Software Engineering** at Universidad de Extremadura, with a side interest in quantum computing research.
 
 ---
 
